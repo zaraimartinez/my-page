@@ -156,3 +156,15 @@ a {
 	padding: 12px;
   	width: 8%;
 }
+
+/*footer*/
+.footer {
+	background-color: #482b2b;
+	color: white;
+	padding: 5%;
+	text-align: center;
+}
+
+.footer a:hover {
+	color: #D74040;
+}
